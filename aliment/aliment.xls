@@ -1,0 +1,11 @@
+ID,Name,Category,Calories,Fat (g),Carbs (g),Protein (g)
+1,Apple,Fruit,95,0.3,25,0.5
+2,Banana,Fruit,105,0.4,27,1.3
+3,Chicken Breast,Meat,165,3.6,0,31
+4,Salmon,Seafood,206,12,0,22
+5,Broccoli,Vegetable,55,0.6,11,3.7
+6,Oats,Grains,389,7,66,16.9
+7,Almonds,Nuts,579,49,22,21
+8,Carrot,Vegetable,41,0.2,10,0.9
+9,Spinach,Vegetable,23,0.4,3.6,2.9
+10,Egg,Protein,68,4.8,0.6,5.5

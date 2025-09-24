@@ -1,0 +1,9 @@
+Niveau d'éducation,Secteur d'emploi,Âge,Genre,Classe (Employé/Non Employé)
+Bac,Public,35,Homme,Employé
+Master,Privé,45,Femme,Employé
+Licence,Public,29,Femme,Non Employé
+Bac,Privé,22,Homme,Non Employé
+Licence,Public,40,Femme,Employé
+Master,Privé,31,Homme,Employé
+Bac,Public,50,Femme,Non Employé
+Doctorat,Privé,34,Homme,Employé

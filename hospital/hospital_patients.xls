@@ -1,0 +1,11 @@
+Âge,Sexe,Taille (cm),Poids (kg),Diagnostic,Statut
+45,Homme,175,78,A1,1
+60,Femme,162,70,B2,0
+30,Homme,180,85,A1,1
+50,Femme,158,65,C3,0
+70,Homme,170,80,B2,1
+55,Femme,165,68,A1,1
+40,Homme,172,75,C3,0
+65,Femme,160,72,B2,1
+35,Homme,178,82,A1,1
+48,Femme,167,69,C3,0

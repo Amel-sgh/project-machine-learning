@@ -1,0 +1,11 @@
+Age,Sexe,BMI,Glucose,Blood Pressure,Insulin,Skin Thickness,Diabetes Pedigree Function,Outcome
+50,Homme,30.1,160,85,94,23,0.6,1
+45,Femme,90.0,140,90,NaN,19,0.3,0
+60,Homme,35.0,400,NaN,130,25,0.8,1
+NaN,Femme,24.7,120,75,85,22,0.2,0
+40,Homme,29.0,150,20,100,NaN,0.5,1
+55,Femme,32.5,170,92,110,26,NaN,1
+30,Homme,NaN,115,78,300,20,0.1,0
+52,Femme,31.5,155,88,105,NaN,0.4,1
+NaN,Homme,27.6,145,82,95,22,5.0,0
+62,Femme,10.0,190,95,NaN,30,0.9,1
